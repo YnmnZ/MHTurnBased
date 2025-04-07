@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"determine_moveable",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"determine_moveable",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
